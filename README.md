@@ -3,3 +3,6 @@ In this insightful study, I delved into the patterns of land usage, measured in 
 
 ## Technologies 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+- MongoDB
+- OpenRefine
+- 
