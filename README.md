@@ -3,6 +3,8 @@ In this insightful study, I delved into the patterns of land usage, measured in 
 
 This was completed as a project for my final year at University.
 
+Final score: A
+
 ## Technologies & Libraries
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 - MongoDB
