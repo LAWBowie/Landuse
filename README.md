@@ -15,3 +15,5 @@ Final score: A
 - Jupyter
 
 ## My Socials
+Twitter:
+Linkedin: 
