@@ -8,7 +8,7 @@ Final score: A
 ## Technologies & Libraries
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 - MongoDB
-- OpenRefine (Data Cleaning)
+- OpenRefine (Data Preparation & Cleaning)
 - Pandas
 - geoPandas
 - Folium
